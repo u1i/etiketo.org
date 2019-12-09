@@ -4,9 +4,11 @@
 
 ## What it does
 
-Etiketo is an approach that takes a radical look to only use APIs as the way how teams communicate, and it relies on making APIs more self-describing than they are today. [Read More](http://www.pautasso.info/talks/2018/2018-WESOACS-APIlabels/#/title)
+Etiketo is an approach that takes a radical look to only use APIs as the way how teams communicate, and it relies on making APIs more self-describing than they are today. [Read More...](http://www.pautasso.info/talks/2018/2018-WESOACS-APIlabels/#/title)
 
 ## Material
+
+The main resources regarding Etiketo are managed by the [GitHub API-labels organization](https://github.com/API-labels/), specifically [the Etiketo specification](https://github.com/API-Labels/etiketo), and [the registry for well-known API labels](https://github.com/API-Labels/registry).
 
 ### Presentations
 
@@ -18,6 +20,6 @@ Etiketo is an approach that takes a radical look to only use APIs as the way how
 
 ### Tools (currently in Development)
 
-* [Document Validator](https://labs.xwaay.net/labels-validator)
-* [Labels Viewer](https://labs.xwaay.net/labels-viewer)
+* [API label validator](https://labs.xwaay.net/labels-validator)
+* [API label viewer](https://labs.xwaay.net/labels-viewer)
 
