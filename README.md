@@ -1,4 +1,4 @@
-![](resources/etiketo-v1-small.png)
+![](resources/etiketo-v1-small-trans.png)
 
 # etiketo – "API the APIs"
 
