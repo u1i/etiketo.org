@@ -8,7 +8,7 @@ Etiketo is an approach that takes a radical look to only use APIs as the way how
 
 ## Material
 
-The main resources regarding Etiketo are managed by the [GitHub API-labels organization](https://github.com/API-labels/), specifically [the Etiketo specification](https://github.com/API-Labels/etiketo), and [the registry for well-known API labels](https://github.com/API-Labels/registry).
+The main resources regarding Etiketo are managed by [the GitHub *API-labels* organization](https://github.com/API-labels/), specifically [the Etiketo specification](https://github.com/API-Labels/etiketo), and [the registry for well-known API labels](https://github.com/API-Labels/registry).
 
 ### Presentations
 
